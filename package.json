@@ -1,0 +1,25 @@
+{
+  "name": "lightbase",
+  "version": "1.0.0",
+  "description": "Easily perform CRUD operations on a light weight database on Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aforaditya/simplebase.git"
+  },
+  "keywords": [
+    "database"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aforaditya/simplebase/issues"
+  },
+  "homepage": "https://github.com/aforaditya/simplebase#readme",
+  "dependencies": {
+    "lightbase": "^1.0.0"
+  }
+}
