@@ -17,7 +17,7 @@ To use this module, follow the steps below:
 1. Import the module in your JavaScript file:
 
    ```javascript
-   const db = require('lightbase')();
+   const db = require('lightbase');
    ```
 
 2. Available Methods:
