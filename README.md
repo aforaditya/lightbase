@@ -1,6 +1,6 @@
 ### Lightbase
 
-This is a simple JavaScript module that acts as a basic database for storing, retrieving, and accessing text values. It utilizes the "lightbase" package to interact with the file system and store the data in a text file.
+This is a simple JavaScript module that acts as a basic database for storing, retrieving, and accessing text values. It utilizes the Node filesystem to interact with the file system and store the data in a text file.
 
 ### Installation
 
